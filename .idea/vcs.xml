@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="C:\TodoList\app\my-app" vcs="Git" />
+    <mapping directory="C:\TodoList\app\src\my-app" vcs="Git" />
+    <mapping directory="C:\TodoList\application" vcs="Git" />
   </component>
 </project>
